@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)"
+options: "0da734a9f483f9158c98f6a4d37dd4e908855f82b95a6a9f03ff712c933f37e6"
+build_start_time: [1678501017, 892858982]
+build_end_time: [1678501021, 221703052]
+inputs:
+  "/Users/c97069a/Documents/sudoku_layout/macos/Flutter/GeneratedPluginRegistrant.swift": [1678501007, 178860187]
+  "/Users/c97069a/Documents/sudoku_layout/macos/Runner/AppDelegate.swift": [1669220893, 0]
+  "/Users/c97069a/Documents/sudoku_layout/macos/Runner/MainFlutterWindow.swift": [1669220893, 0]
